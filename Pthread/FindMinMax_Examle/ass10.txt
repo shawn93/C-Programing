@@ -1,0 +1,71 @@
+busy runs
+average Elapsed time on 20 runs for thread 1
+0.0072699
+average Elapsed time on 20 runs for thread 2
+0.00592455
+average Elapsed time on 20 runs for thread 4
+0.00370443
+average Elapsed time on 20 runs for thread 8
+0.00257401
+average Elapsed time on 20 runs for thread 16
+0.00234556
+average Elapsed time on 20 runs for thread 32
+0.00301121
+average Elapsed time on 20 runs for thread 64
+0.00329216
+average Elapsed time on 20 runs for thread 128
+0.004015
+average Elapsed time on 20 runs for thread 256
+0.00648148
+average Elapsed time on 20 runs for thread 512
+0.0132434
+average Elapsed time on 20 runs for thread 1024
+0.0246109
+mutex runs
+average Elapsed time on 20 runs for thread 1
+0.0067502
+average Elapsed time on 20 runs for thread 2
+0.0101123
+average Elapsed time on 20 runs for thread 4
+0.0101239
+average Elapsed time on 20 runs for thread 8
+0.0117459
+average Elapsed time on 20 runs for thread 16
+0.0193069
+average Elapsed time on 20 runs for thread 32
+0.032011
+average Elapsed time on 20 runs for thread 64
+0.0603758
+average Elapsed time on 20 runs for thread 128
+0.117108
+average Elapsed time on 20 runs for thread 256
+0.232581
+average Elapsed time on 20 runs for thread 512
+0.464049
+average Elapsed time on 20 runs for thread 1024
+0.925672
+sems runs
+average Elapsed time on 20 runs for thread 1
+0.00687183
+average Elapsed time on 20 runs for thread 2
+0.00912846
+average Elapsed time on 20 runs for thread 4
+0.009447
+average Elapsed time on 20 runs for thread 8
+0.0135408
+average Elapsed time on 20 runs for thread 16
+0.0188283
+average Elapsed time on 20 runs for thread 32
+0.0325153
+average Elapsed time on 20 runs for thread 64
+0.0593792
+average Elapsed time on 20 runs for thread 128
+0.116537
+average Elapsed time on 20 runs for thread 256
+0.232036
+average Elapsed time on 20 runs for thread 512
+0.461873
+average Elapsed time on 20 runs for thread 1024
+0.92222
+
+Number of cores: 4.
